@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #212121;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #e85252; */
+    padding: 20px;
+    color: whitesmoke;
+}
+
+#list{
+    display: flex;
+    align-items: center;
+    gap : 50px
+}

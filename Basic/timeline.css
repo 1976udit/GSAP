@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #212121;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: crimson;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #00ff00;
+}
+#box3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #0000ff;
+}
+#box4{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #ffff00;
+}
