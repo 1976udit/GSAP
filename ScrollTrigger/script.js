@@ -43,7 +43,8 @@ gsap.from("#page3 .box", {
         markers : true,
         start : "top 60%",
         stop : "top 30%",
-        scrub : true
+        scrub : true,
+        pin : true
     }
 })
 
